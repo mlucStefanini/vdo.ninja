@@ -8,11 +8,6 @@ body{
 	height:unset;
 	opacity:  1;
 }
-/*
-button[data-action-type='solo-chat'] {
-	display:none! important;
-}
-*/
 button[data-action-type='recorder-local'] {
 	display:none! important;
 }
